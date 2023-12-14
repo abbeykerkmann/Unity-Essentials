@@ -1,0 +1,22 @@
+{
+  "name": "com.unity.lego.materials",
+  "displayName": "LEGO Materials",
+  "version": "3.0.0",
+  "unity": "2021.2",
+  "unityRelease": "7f1",
+  "description": "A complete library of all past and current LEGO Materials used in the physical sets.",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.2"
+  },
+  "upm": {
+    "changelog": "### Changed,- Updated the project to URP including all material assets,- Minimum compatible version changed to 2021.2.7f1,- Moved some colours to legacy,- Moved some public APIs to be internal,### Added,- Added new LEGO colours,- Added option to show legacy colours in the colour picker,- Added a highlight in the colour picker to show which colour is currently selected,- Added documentation to public APIs that were missing documentation"
+  },
+  "upmCi": {
+    "footprint": "56cc8c4c6729f625bbfd7384e28484b364d28ee7"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.lego.materials.git",
+    "type": "git",
+    "revision": "0ee79a2a30a373a802dab61ccb05dd42cd4f98d4"
+  }
+}
